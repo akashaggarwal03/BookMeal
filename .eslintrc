@@ -1,0 +1,24 @@
+{
+    "extends": "@react-native-community",
+    "rules": {
+        "quotes": [
+            2,
+            "double",
+            {
+                "avoidEscape": true
+            }
+        ],
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "es5",
+                "sigleQuote": true,
+                "printWidth": 120
+            }
+        ]
+    },
+    "plugins": [
+        //"html",
+        "prettier"
+    ]
+}
