@@ -22,10 +22,10 @@ const styles = StyleSheet.create({
   },
   list: {
     flex: 1,
-    backgroundColor: "green",
+    backgroundColor: "blue",
+    padding: 16,
   },
   search: {
     padding: 16,
-    marginBottom: 10,
   },
 });
