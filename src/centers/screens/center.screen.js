@@ -2,30 +2,27 @@ import React from "react";
 import { StyleSheet, Text, View, SafeAreaView, StatusBar } from "react-native";
 import { Searchbar } from "react-native-paper";
 import { CenterInfo } from "../components/center-info";
+import styled from "styled-components/native";
+
+const SafeArea = styled(SafeAreaView)`
+  flex: 1;
+  margin-top: ${StatusBar.currentHeight}px;
+`;
+const SearchContainer = styled.View`
+  padding: ${(props) => props.theme.space[3]};
+`;
+const CenterinfoContainer = styled.View`
+  flex: 1;
+  padding: ${(props) => props.theme.space[3]};
+`;
 
 export const CenterScreen = () => (
-  <SafeAreaView style={styles.container}>
-    <View styles={styles.search}>
-      <Searchbar placeholder="Search Places" />
-    </View>
-
-    <View style={styles.list}>
+  <SafeArea>
+    <SearchContainer>
+      <Searchbar />
+    </SearchContainer>
+    <CenterinfoContainer>
       <CenterInfo />
-    </View>
-  </SafeAreaView>
+    </CenterinfoContainer>
+  </SafeArea>
 );
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    marginTop: StatusBar.currentHeight,
-  },
-  list: {
-    flex: 1,
-    backgroundColor: "blue",
-    padding: 16,
-  },
-  search: {
-    padding: 16,
-  },
-});

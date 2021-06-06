@@ -1,10 +1,28 @@
 import React from "react";
-import { Text, StyleSheet } from "react-native";
+import { Text, StyleSheet, View } from "react-native";
 import { Card } from "react-native-paper";
 import styled from "styled-components/native";
-
+import { SvgXml } from "react-native-svg";
+import open from "../../../assets/open";
 const Title = styled.Text`
-  padding: 16px;
+  color: ${(props) => props.theme.colors.ui.error};
+  font-size: ${(props) => props.theme.fontSizes.body};
+`;
+
+const Info = styled.View`
+  padding: ${(props) => props.theme.space[3]};
+`;
+
+const Address = styled.Text`
+  font-size: ${(props) => props.theme.fontSizes.caption};
+`;
+const CenterCard = styled(Card)`
+  background-color: ${(props) => props.theme.colors.bg.primary};
+`;
+
+const CenterCardCover = styled(Card.Cover)`
+  padding: ${(props) => props.theme.space[3]};
+  background-color: ${(props) => props.theme.colors.bg.primary};
 `;
 
 export const CenterInfo = ({ center = {} }) => {
@@ -18,16 +36,13 @@ export const CenterInfo = ({ center = {} }) => {
   } = center;
 
   return (
-    <Card elevation={5} style={styles.card}>
-      <Card.Cover key={name} source={{ uri: photos[0] }} style={styles.cover} />
-
-      <Title>{name}</Title>
-    </Card>
+    <CenterCard elevation={5}>
+      <CenterCardCover key={name} source={{ uri: photos[0] }} />
+      <Info>
+        <Title>{name}</Title>
+        <Address>{address}</Address>
+        <View>{isOpennow && <SvgXml xml={open} height={50} width={50} />}</View>
+      </Info>
+    </CenterCard>
   );
 };
-
-const styles = StyleSheet.create({
-  card: { backgroundColor: "white" },
-  cover: { padding: 20 },
-  title: { padding: 16 },
-});
