@@ -27,11 +27,11 @@ const CenterCardCover = styled(Card.Cover)`
 
 export const CenterInfo = ({ center = {} }) => {
   const {
-    name = "ABCd Restaurant",
+    name = "ABC Restaurant",
     icon,
     photos = ["https://picsum.photos/700"],
     address = "Some street",
-    isOpennow = true,
+    isOpenNow = true,
     rating = 4,
   } = center;
 
@@ -41,7 +41,7 @@ export const CenterInfo = ({ center = {} }) => {
       <Info>
         <Title>{name}</Title>
         <Address>{address}</Address>
-        <View>{isOpennow && <SvgXml xml={open} height={50} width={50} />}</View>
+        <View>{isOpenNow && <SvgXml xml={open} height={50} width={50} />}</View>
       </Info>
     </CenterCard>
   );

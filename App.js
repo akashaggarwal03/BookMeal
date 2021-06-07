@@ -6,9 +6,10 @@ import { ThemeProvider } from "styled-components/native";
 import { theme } from "./src/infrastructure/theme";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { CenterInfo } from "./src/centers/components/center-info";
 import { SafeArea } from "./src/utils/safe-area";
 import Ionicons from "@expo/vector-icons/Ionicons";
+import { RestaurantsContextProvider } from "./src/services/centers/centers.context";
+
 const MapTab = () => (
   <SafeArea>
     <Text>Home</Text>
@@ -38,19 +39,21 @@ export default function App() {
   return (
     <>
       <ThemeProvider theme={theme}>
-        <NavigationContainer>
-          <Tab.Navigator
-            screenOptions={createScreenOptions}
-            tabBarOptions={{
-              activeTintColor: "blue",
-              inactiveTintColor: "gray",
-            }}
-          >
-            <Tab.Screen name="Centers" component={CenterScreen} />
-            <Tab.Screen name="Map" component={MapTab} />
-            <Tab.Screen name="Settings" component={SettingsTab} />
-          </Tab.Navigator>
-        </NavigationContainer>
+        <RestaurantsContextProvider>
+          <NavigationContainer>
+            <Tab.Navigator
+              screenOptions={createScreenOptions}
+              tabBarOptions={{
+                activeTintColor: "blue",
+                inactiveTintColor: "gray",
+              }}
+            >
+              <Tab.Screen name="Centers" component={CenterScreen} />
+              <Tab.Screen name="Map" component={MapTab} />
+              <Tab.Screen name="Settings" component={SettingsTab} />
+            </Tab.Navigator>
+          </NavigationContainer>
+        </RestaurantsContextProvider>
       </ThemeProvider>
 
       <ExpoStatusBar style="auto" />
