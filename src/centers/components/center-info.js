@@ -27,7 +27,7 @@ const CenterCardCover = styled(Card.Cover)`
 
 export const CenterInfo = ({ center = {} }) => {
   const {
-    name = "ABC",
+    name = "ABCd Restaurant",
     icon,
     photos = ["https://picsum.photos/700"],
     address = "Some street",
