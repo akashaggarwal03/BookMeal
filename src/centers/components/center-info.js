@@ -30,7 +30,7 @@ export const CenterInfo = ({ center = {} }) => {
     name = "ABC Restaurant",
     icon,
     photos = ["https://picsum.photos/700"],
-    address = "Some street",
+    address = "Some street 2",
     isOpenNow = true,
     rating = 4,
   } = center;

@@ -1,0 +1,598 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.74612009,
+          "lng": 77.06611321
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.747120091234,
+            "lng": 77.067113212345
+          },
+          "southwest": {
+            "lat": 28.744120091234,
+            "lng": 77.064113212345
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "GOVT(CO-ED) SR. SEC. SCHOOL",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "rating": 4,
+      "reference": "",
+      "user_ratings_total": 832,
+      "vicinity": "BARWALA, DELHI-39"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 28.7743372,
+          "lng": 76.965299
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.7743372,
+            "lng":76.965299
+          },
+          "southwest": {
+            "lat": 28.7743372,
+            "lng": 76.965299
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Govt. Co-Ed middle School",
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 2",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "reference": "",
+      "scope": "",
+      "types": [
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Punjab Khore, Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.5315402,
+          "lng": 76.9162483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5315402,
+            "lng": 76.9162483
+          },
+          "southwest": {
+            "lat": 28.5315402,
+            "lng":76.9162483
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "GBSSS",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2000,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3000
+        }
+      ],
+      "place_id": "some place id 3",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "rating": 4.3,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "travel_agency",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 321,
+      "vicinity": "Ghumanhera, Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.5427269,
+          "lng": 77.030287
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5427269,
+            "lng": 77.030287
+          },
+          "southwest": {
+            "lat": 28.5427269,
+            "lng": 77.030287
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Govt. Co-ed. Sr. Sec. School ",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 4",
+      "rating": 4.6,
+      "reference": "",
+      "user_ratings_total": 152,
+      "vicinity": "Dhulsiras, Bamnoli, New Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6569861,
+          "lng": 77.1408651
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6569861,
+            "lng": 77.1408651
+          },
+          "southwest": {
+            "lat": 28.6569861,
+            "lng": 77.1408651
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "North MCD Primary Utkrist, School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 5",
+      "rating": 4.2,
+      "reference": "",
+
+      "user_ratings_total": 151,
+      "vicinity": "Sec-16, D/3, Rohini, Delhi-110085"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6893482,
+          "lng":77.1874814
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6893482,
+            "lng": 77.1874814
+          },
+          "southwest": {
+            "lat": 28.6893482,
+            "lng": 77.1874814
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "SARVODAYA KANYA VIDYALAYA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 6",
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "",
+      "user_ratings_total": 766,
+      "vicinity": "RANA PRATAP BAGH,Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6701695,
+          "lng": 77.1317979
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6701695,
+            "lng": 77.1317979
+          },
+          "southwest": {
+            "lat": 28.6701695,
+            "lng": 77.1317979
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "SKV",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 7",
+      "rating": 4.2,
+      "reference": "",
+      "user_ratings_total": 122,
+      "vicinity": "Punjabi Bagh, Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6586485,
+          "lng": 77.2023933
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6586485,
+            "lng": 77.2023933
+          },
+          "southwest": {
+            "lat": 28.6586485,
+            "lng": 77.2023933
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "NIGAM PRATIBHA VIDYALAYA (CO-ED)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 8",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "",
+      "user_ratings_total": 156,
+      "vicinity": "KATRA CHAJJU PANDIT, EAST PARK ROAD, NEW DELHI"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.4988807,
+          "lng": 77.1602778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.4988807,
+            "lng": 77.1602778
+          },
+          "southwest": {
+            "lat": 28.4988807,
+            "lng": 77.1602778
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "SDMC Primary School",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 9",
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "",
+      "user_ratings_total": 441,
+      "vicinity": "Sultanpur, Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.5841143,
+          "lng": 77.0836787
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.5841143,
+            "lng": 77.0836787
+          },
+          "southwest": {
+            "lat": 28.5841143,
+            "lng": 77.0836787
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Govt. Boys Sr. Sec. School",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 2048
+        }
+      ],
+      "place_id": "some place id 10",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 4,
+      "rating": 4.7,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 152,
+      "vicinity": " Palam Village, Raj Nagar-I"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6261678,
+          "lng": 77.2124594
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6261678,
+            "lng": 77.2124594
+          },
+          "southwest": {
+            "lat": 28.6261678,
+            "lng": 77.2124594
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Community Hall",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3139,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6153
+        }
+      ],
+      "place_id": "some place id 11",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 689,
+      "vicinity": "West Gorakh Park"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6569861,
+          "lng": 77.1408651
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6569861,
+            "lng": 77.1408651
+          },
+          "southwest": {
+            "lat": 28.6569861,
+            "lng": 77.1408651
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "North MCD Primary Utkrist",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 3024
+        }
+      ],
+      "place_id": "some place id 12",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "",
+      "scope": "",
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 854,
+      "vicinity": "Sec-16, D/3, Rohini, Delhi-110085"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.7106186,
+          "lng": 77.3041542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.7106186,
+            "lng": 77.3041542
+          },
+          "southwest": {
+            "lat": 28.7106186,
+            "lng": 77.3041542
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "Gian Jyoti Public School ",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 639,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 1136
+        }
+      ],
+      "place_id": "some place id 13",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.5,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 316,
+      "vicinity": "Pratap Nagar, Delhi"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 28.6067557,
+          "lng": 77.3322266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 28.6067557,
+            "lng": 77.3322266
+          },
+          "southwest": {
+            "lat": 28.6067557,
+            "lng": 77.3322266
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name": "GBSS/GGSSS",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3376,
+          "html_attributions": [""],
+          "photo_reference": "",
+          "width": 6000
+        }
+      ],
+      "place_id": "some place id 14",
+      "plus_code": {
+        "compound_code": "",
+        "global_code": "",
+      },
+      "price_level": 3,
+      "rating": 4.1,
+      "reference": "",
+      "scope": "",
+      "types": ["restaurant", "food", "point_of_interest", "establishment"],
+      "user_ratings_total": 1274,
+      "vicinity": "Mayur Vihar, Phase III,Delhi"
+    }
+  ],
+  "status": "OK"
+}
