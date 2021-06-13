@@ -1,0 +1,411 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.63414368638908,
+            "lng": 88.39965853664766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.63414368638908,
+              "lng": 88.39965853664766
+            },
+            "southwest": {
+              "lat": 22.63414368638908,
+              "lng": 88.39965853664766
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Rescue and Relief Foundation",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4910,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6576
+          }
+        ],
+        "place_id": "some place id 61",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "lodging",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1822,
+        "vicinity": "42, Nayen building 1st floor, 1, Dum Dum Rd, Kolkata"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.529979918657045,
+            "lng": 88.35769424035877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.529979918657045,
+              "lng": 88.35769424035877
+            },
+            "southwest": {
+              "lat": 22.529979918657045,
+              "lng": 88.35769424035877
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Hope Kolkata Foundation",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1621
+          }
+        ],
+        "place_id": "some place id 62",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "lodging",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8383,
+        "vicinity": "39, Panditiya Pl, Dover Terrace, Ballygunge, Kolkata"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.52192533618523,
+            "lng": 88.3348046242012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.52192533618523,
+              "lng": 88.3348046242012
+            },
+            "southwest": {
+              "lat": 22.52192533618523,
+              "lng": 88.3348046242012
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Goonj Dropping Centre",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1924,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 3598
+          }
+        ],
+        "place_id": "some place id 63",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "lodging",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 502,
+        "vicinity": "603/1B, New Alipore Rd, Block O, New Alipore, Kolkata"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.560683704406845,
+            "lng": 88.37022903015936
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.560683704406845,
+              "lng": 88.37022903015936
+            },
+            "southwest": {
+              "lat": 22.560683704406845,
+              "lng": 88.37022903015936
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Food ATM",
+        "photos": [
+          {
+            "height": 1500,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 64",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "34, CIT Rd, opp ladies, Beniapukur, Kolkata"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.562193550397105,
+            "lng": 88.38003886565545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.562193550397105,
+              "lng": 88.38003886565545
+            },
+            "southwest": {
+              "lat": 22.562193550397105,
+              "lng": 88.38003886565545
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "CINI kolkata Unit",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 640
+          }
+        ],
+        "place_id": "some place id 65",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "night_club",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1382,
+        "vicinity": "37, Pottery Rd, Seal Lane, Tangra, Kolkata"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 22.52544927380122,
+            "lng": 88.39802356406497
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.52544927380122,
+              "lng": 88.39802356406497
+            },
+            "southwest": {
+              "lat": 22.52544927380122,
+              "lng": 88.39802356406497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "UNICEF Office for West Bengal",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4608
+          }
+        ],
+        "place_id": "some place id 66",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 405,
+        "vicinity": "1937, Rajdanga Main Road, Sector G, East Kolkata Twp, Kolkata"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 22.582323250315554,
+            "lng": 88.34842939572357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.582323250315554,
+              "lng": 88.34842939572357
+            },
+            "southwest": {
+              "lat": 22.582323250315554,
+              "lng": 88.34842939572357
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Indian Red Cross Society",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3840,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 5760
+          }
+        ],
+        "place_id": "some place id 67",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3698,
+        "vicinity": "5&6, Government Pl, Lal Dighi, B.B.D. Bagh, Kolkata"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 22.55011431968529,
+            "lng": 88.35115435002804
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 22.55011431968529,
+              "lng": 88.35115435002804
+            },
+            "southwest": {
+              "lat": 22.55011431968529,
+              "lng": 88.35115435002804
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Liver Foundation, West Bengal",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4032
+          }
+        ],
+        "place_id": "some place id 68",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": ""
+        },
+        "price_level": 3,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2954,
+        "vicinity": "16th Floor, Room No, 33A, 12, Jawaharlal Nehru Rd, Kolkata"
+      }
+    ],
+    "status": "OK"
+  }

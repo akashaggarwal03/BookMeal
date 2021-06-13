@@ -1,0 +1,321 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.451094081021026,
+            "lng": 78.45636994251436
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.451094081021026,
+              "lng": 78.45636994251436
+            },
+            "southwest": {
+              "lat": 17.451094081021026,
+              "lng": 78.45636994251436
+            }
+          }
+        },
+        "ix": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "GHMC ₹5 Meal Counter",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3672,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 6786
+          }
+        ],
+        "place_id": "some place id 41",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1675,
+        "vicinity": "1-10-177, Begumpet Flyover, Hyderabad"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.434881911395205,
+            "lng": 78.4621963224669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.434881911395205,
+              "lng": 78.4621963224669
+            },
+            "southwest": {
+              "lat": 17.434881911395205,
+              "lng": 78.4621963224669
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Elder Spring Response System",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4128
+          }
+        ],
+        "place_id": "some place id 42",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4404,
+        "vicinity": "TSR Towers, Vijayavahini Charita, Hyderabad"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.4038431687932,
+            "lng": 78.42626697942619
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.4038431687932,
+              "lng": 78.42626697942619
+            },
+            "southwest": {
+              "lat": 17.4038431687932,
+              "lng": 78.42626697942619
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "name": "Helping Hand Foundation",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 576,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1024
+          }
+        ],
+        "place_id": "some place id 43",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "night_club",
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1284,
+        "vicinity": "Nanal Nagar X Rd, Kakatiya Nagar, Toli Chowki, Hyderabad"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.416351953389075,
+            "lng": 78.44763037258554
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.416351953389075,
+              "lng": 78.44763037258554
+            },
+            "southwest": {
+              "lat": 17.416351953389075,
+              "lng": 78.44763037258554
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Sparsh Hospice",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 468,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 960
+          }
+        ],
+        "place_id": "some place id 44",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1405,
+        "vicinity": "Plot No. 85, 8-2, 703/2/1,Banjara Hills, Hyderabad"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.434881911395205,
+            "lng": 78.4199550678109
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.434881911395205,
+              "lng": 78.4199550678109
+            },
+            "southwest": {
+              "lat": 17.434881911395205,
+              "lng": 78.4199550678109
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Smile Foundation India",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 4032
+          }
+        ],
+        "place_id": "some place id 45",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 191,
+        "vicinity": "45, Road No. 2, Park View Enclave, Hyderabad"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 17.46591537428643,
+            "lng": 78.37528615484136
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 17.46591537428643,
+              "lng": 78.37528615484136
+            },
+            "southwest": {
+              "lat": 17.46591537428643,
+              "lng": 78.37528615484136
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "CII-Sohrabji Godrej Green Business Centre",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1000,
+            "html_attributions": [
+              ""
+            ],
+            "photo_reference": "",
+            "width": 1500
+          }
+        ],
+        "place_id": "some place id 46",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2488,
+        "vicinity": "Survey No.64, Kothaguda Post, Hyderabad"
+      }
+      
+    ],
+    "status": "OK"
+  }
