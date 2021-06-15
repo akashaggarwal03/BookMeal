@@ -10,18 +10,7 @@ import { SafeArea } from "./src/utils/safe-area";
 import Ionicons from "@expo/vector-icons/Ionicons";
 import { RestaurantsContextProvider } from "./src/services/centers/centers.context";
 import { LocationContextProvider } from "./src/services/location/location.context";
-import {MapScreen} from "./src/components/Map/map.screen";
-
-const MapTab = () => (
-  <SafeArea>
-    <Text>Home</Text>
-  </SafeArea>
-);
-const SettingsTab = () => (
-  <SafeArea>
-    <Text>Settings</Text>
-  </SafeArea>
-);
+import { MapScreen } from "./src/components/Map/map.screen";
 
 const TAB_ICON = {
   Centers: "restaurant",
@@ -53,7 +42,6 @@ export default function App() {
               >
                 <Tab.Screen name="Centers" component={CenterScreen} />
                 <Tab.Screen name="Map" component={MapScreen} />
-                <Tab.Screen name="Settings" component={SettingsTab} />
               </Tab.Navigator>
             </NavigationContainer>
           </RestaurantsContextProvider>
